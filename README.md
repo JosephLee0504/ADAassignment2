@@ -1,3 +1,3 @@
 # ADAassignment2
-![image](https://user-images.githubusercontent.com/118774347/211070618-eb5412a7-8329-4692-81a8-2a5c807a23ce.png)
-![image](https://user-images.githubusercontent.com/118774347/211070645-e508348e-c609-4431-982b-856b250ec881.png)
+![image](https://user-images.githubusercontent.com/118774347/211071269-2d3208fa-7df8-49fe-80aa-8a529c31adfc.png)
+![image](https://user-images.githubusercontent.com/118774347/211071284-5deecf38-493f-4c83-be58-3bd98bc09caf.png)
